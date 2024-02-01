@@ -1,0 +1,16 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0;
+}
+
+table {
+    margin: 0 auto;
+}
